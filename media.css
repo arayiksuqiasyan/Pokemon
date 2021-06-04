@@ -1,0 +1,12 @@
+@media screen and (max-width:425px){
+    .post-info{
+        width: 100%;
+        margin-left: 0!important ;
+
+    }
+    .post-body{
+        width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
